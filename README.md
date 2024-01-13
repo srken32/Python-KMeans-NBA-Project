@@ -1,4 +1,4 @@
-KMeans NBA Data.pdf-> research paper discussing findings and displaying graphs
+KMeans NBA Data.pdf-> research paper discussing findings and displaying graphs |
 2400_Final_Project_Python.pdf-> shows python code used to create the model and graphs
 
 Python KMeans on NBA data
